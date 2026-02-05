@@ -1,4 +1,7 @@
 import flask
 def main():
+    """Fingsi utama aplikasi"""
     print("Hello, CI/CD")
-main()
+
+if __name__ == "__main__":
+    main()
